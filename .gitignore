@@ -1,0 +1,34 @@
+## matrix is primarily now a linux project
+## 
+## Removing much of the stuff we used to have here for Codeblocks
+## Visual Studio and Windows.
+
+# test output files
+out.txt
+
+# items that are copied in
+
+# items that are ephemeral
+temp/
+
+# zip files used to send to others
+*.zip
+*.tar
+
+# ignore droppings of vim
+*.swp
+
+# Build results
+*.exe
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+
